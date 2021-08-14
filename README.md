@@ -1,2 +1,2 @@
 # DiscordBotJbob
-um bot feito em Discord.jbob
+Exemploo de bot para discord em jbob.discord
